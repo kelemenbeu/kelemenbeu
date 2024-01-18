@@ -1,4 +1,7 @@
-### Hi there, I'm BEA! 👋
+<h1 align="center">Hi there, I'm BEA! 👋</h1>
+
+<img align='right' alt="My octocat" src="beaocto.png" width="200" height="200" />
+
 - 🚀 Front-end developer with expertise in building modern web applications.
 - 💻 Proficient in HTML, CSS, JavaScript, TypeScript, and various front-end frameworks.
 - 🌐 Currently working with React, Next.js, and leveraging React Hooks and Redux for state management.
@@ -6,9 +9,6 @@
 - ☁️ Familiar with Azure for cloud services and Docker for containerization.
 
 <!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelemenbeu&show_icons=true&theme=radical&count_private=true&hide=contribs) -->
-<p align="center">
-  <img alt="My octocat" src="beaocto.png" width="200" height="200" />
-</p>
 
 <p align="center">
   <img alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>
