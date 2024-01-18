@@ -5,6 +5,7 @@
 - 🛠️ Experienced in testing with Jest and Cypress.
 - ☁️ Familiar with Azure for cloud services and Docker for containerization.
 
+<img alt="My octocat" src="beaocto.png" />
 <!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelemenbeu&show_icons=true&theme=radical&count_private=true&hide=contribs) -->
 
 ### Languages and Tools:
