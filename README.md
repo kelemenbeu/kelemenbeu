@@ -10,7 +10,7 @@
 
 <!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelemenbeu&show_icons=true&theme=radical&count_private=true&hide=contribs) -->
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,mui,jest,azure,docker,git" />
   </a>
