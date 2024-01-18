@@ -22,3 +22,7 @@
   <img alt="Azure" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40"/>
   <img alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/>
 </p>
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kelemenbeu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
